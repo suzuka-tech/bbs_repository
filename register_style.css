@@ -1,0 +1,64 @@
+header{
+    text-align:left;
+    border-bottom: 1px solid #eee;
+    color:rgb(65, 64, 64);
+}
+header i{
+    margin-left:7px;
+}
+h2{
+    margin-left:30px;
+}
+html{
+    font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+body{
+    text-align: left;
+}
+.register-title{
+    height:150px;
+    margin-top:10px;
+    background-image: url(https://3.bp.blogspot.com/-cEA4AXbk3e4/V5XcozPUGnI/AAAAAAAA8qg/MdkPyz2mcwAAe2bHLdcECN7j0o0cnLbMQCLcB/s2000/bg_abstract1_blue.png);
+    background-size: cover;
+    text-align: center;
+    font-size: 23px;
+    color:white;
+}
+h1{
+    padding-top:30px;
+    font-weight:normal;
+}
+.err{
+    color:red;
+}
+.register-box{
+    margin:0 auto;
+    width:40%;
+    padding:20px;
+    border-bottom: 1px solid grey;
+}
+input{
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    width: 400px;
+    height:40px;
+}
+.button-box{
+    text-align: center;
+    padding:20px;
+}
+button{
+    border-radius: 2px;
+    background-color:lightblue;
+    color:white;
+    height:45px;
+    width:30%;
+    border:none;
+    margin-bottom:50px;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+button:click{
+    box-shadow: 0 0 2 2;
+}

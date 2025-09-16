@@ -1,0 +1,56 @@
+.normal{
+  font-weight: lighter;
+}
+.date{
+    margin-top: 2px;
+}
+header{
+    text-align: center;
+    background-color:cornflowerblue;
+    color:white;
+    font-size: 15px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+body{
+    font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+    margin-left:10px;
+}
+input{
+    margin-top:0px;
+    margin-left:10px;
+    height: 20px;
+}
+textarea{
+    margin-top:0px;
+    margin-left:10px;
+    height:100px;
+    width:500px;
+}
+
+button{
+    background-color:cornflowerblue;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color:white;
+    margin-bottom:12px;
+}
+button:hover {
+    background-color: #1b5fcc;
+}
+form{
+    margin-left:50px;
+}
+p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+h3{
+    margin-left:50px;
+    margin-bottom:0px;
+}
+.date{
+    margin-left:50px;
+}
